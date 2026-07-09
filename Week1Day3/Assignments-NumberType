@@ -1,0 +1,15 @@
+function numberType(number){
+    if(number>0){
+        console.log("number is greater than zero") 
+    }
+
+    else if(number<0){
+        console.log("number is lesser than zero")
+    }
+
+    else{
+        console.log("number is neutral");
+    }
+}
+
+numberType(0)

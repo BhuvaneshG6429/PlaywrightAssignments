@@ -1,0 +1,34 @@
+var firstName = "Bhuvanesh"
+console.log("First name is "+firstName)
+console.log("Datatype of "+firstName+ " is "+typeof firstName)
+
+var companyName = "CTS"
+console.log("Company name is "+companyName)
+console.log("Datatype of "+companyName+ " is "+typeof companyName)
+
+var mobileNumber = 9999999999
+console.log("mobile number is "+mobileNumber)
+console.log("Datatype of "+mobileNumber+ " is "+typeof mobileNumber)
+
+var isAutomation = true
+console.log("Status of automation is "+isAutomation)
+console.log("Datatype of "+isAutomation+ " is "+typeof isAutomation)
+
+var hasPlaywright
+console.log("Status of playwright is "+hasPlaywright)
+console.log("Datatype of "+hasPlaywright+ " is "+typeof hasPlaywright)
+
+var checkNull = null
+console.log("value of checknull is "+checkNull)
+console.log("Datatype of "+checkNull+ " is "+typeof checkNull)
+
+
+
+
+
+
+
+
+
+
+
