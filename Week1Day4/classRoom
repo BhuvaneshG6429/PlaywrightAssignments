@@ -1,0 +1,33 @@
+function printOddNumberFor(){
+for(let i=1;i<=25;i++){
+    if(i%2!=0){
+        console.log(i)
+    }
+}
+}
+
+function printOddNumberDoWhile(){
+    var j=1
+    do{
+        if(j%2!=0){
+            console.log(j);
+            
+        }
+        j++
+    }
+    while(j<=25)
+}
+
+function printOddNumberWhile(){
+    let k=1
+    while(k<=25){
+        if(k%2!=0){
+            console.log(k)
+        }
+        k++
+    }
+}
+
+printOddNumberFor()
+printOddNumberDoWhile()
+printOddNumberWhile()

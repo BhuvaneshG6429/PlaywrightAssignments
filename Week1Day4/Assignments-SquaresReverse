@@ -1,0 +1,9 @@
+function reverseSquare(){
+    let num=10
+    for(num=10;num>=1;num--){
+        let sqr = num*num;
+        console.log("Square of "+num+" is "+sqr)
+    }
+}
+
+reverseSquare()
